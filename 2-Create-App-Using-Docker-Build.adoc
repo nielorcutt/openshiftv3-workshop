@@ -43,7 +43,7 @@ Now let’s create an application using this approach. We will run
 `oc new-app` command by supplying the git uri as the parameter.
 
 ....
-$ oc new-app https://github.com/RedHatWorkshops/time --context-dir=rhel
+$ oc new-app https://github.com/robertsandoval/time --context-dir=rhel
 
 --> Found Docker image 1d309a6 (6 weeks old) from registry.access.redhat.com for "registry.access.redhat.com/rhel7"
 
