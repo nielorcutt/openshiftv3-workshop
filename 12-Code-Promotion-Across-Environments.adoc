@@ -97,11 +97,6 @@ docker-registry.default.svc:5000/development-UserName/welcome-php@sha256:157334d
 Now let us assume that this docker image is good and is ready to promote
 to QA. Let us tag this docker image using the `oc tag` command.
 
-The format is
-
-....
-oc tag development-UserName/myapp:latest development-UserName/myapp:promote-qa
-....
 
 Check the following commands and replace the values where needed:
 
