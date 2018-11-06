@@ -26,7 +26,7 @@ $ oc new-project scm-web-hooks-UserName --display-name="Test WebHooks"
 
 *Step 2: Create new application*
 
-* We will use the forked repository from the previous lab.
+* We will use the forked repository from the previous lab. Please fork from here https://github.com/RedHatWorkshops/bluegreen  
 
 *Remember* to substitute the UserName.
 
