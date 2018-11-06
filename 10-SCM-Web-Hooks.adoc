@@ -167,9 +167,7 @@ image::images/github_add_webhook.jpg[image]
 *Step 3: Redeploy the application*
 
 * Edit in your GitHub account the `image.php` file.
-* One of the lines in line 9 or 10 should be commented out. Make a
-change so that the line that was previously commented out becomes active
-and pound the other one.
+* Simply add a comment to change the file.
 * Commit the file.
 
 *Step 4: Monitor new deployment process*
